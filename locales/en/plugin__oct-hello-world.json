@@ -1,0 +1,18 @@
+{
+  "Community project. Not officially supported by Red Hat.": "Community project. Not officially supported by Red Hat.",
+  "OpenShift Community Tools is unofficial UX enhancements for the OpenShift Console.": "OpenShift Community Tools is unofficial UX enhancements for the OpenShift Console.",
+  "Hello World": "Hello World",
+  "Hello World!": "Hello World!",
+  "Management": "Management",
+  "About this template": "About this template",
+  "This is a template for building OCT extensions. Fork this repo to create your own.": "This is a template for building OCT extensions. Fork this repo to create your own.",
+  "Resources": "Resources",
+  "GitHub repository": "GitHub repository",
+  "Developer guide": "Developer guide",
+  "Version info": "Version info",
+  "Plugin version: {{version}}": "Plugin version: {{version}}",
+  "OpenShift version: {{version}}": "OpenShift version: {{version}}",
+  "OpenShift version: unavailable": "OpenShift version: unavailable",
+  "Loading cluster version": "Loading cluster version",
+  "unknown": "unknown"
+}
