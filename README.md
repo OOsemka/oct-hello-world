@@ -59,3 +59,7 @@ oc patch consoles.operator.openshift.io cluster \
 | Route | `/community-tools/management/hello-world` |
 
 See `AGENTS.md` for the full specification and `.cursor/rules/` for AI coding conventions.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md): setup, `yarn verify`, testing on your own cluster, the project rules and what maintainers do at release.
